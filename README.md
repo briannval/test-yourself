@@ -1,6 +1,6 @@
 # Test Yourself
 
-Test your knowledge on any topic, simply and accessibly
+Test your knowledge on any topic, simply and accessibly.
 
 
 ## Run Locally
